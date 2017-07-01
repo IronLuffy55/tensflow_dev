@@ -1,6 +1,7 @@
 import numpy as np
 import tensorflow as tf
 
+
 #model coefficients
 W = tf.Variable([.3], dtype=tf.float32)
 b = tf.Variable([-.3], dtype=tf.float32)
