@@ -1,1 +1,8 @@
 MNIST_data/
+keras_scripts/build
+keras_scripts/dist
+keras_scripts/Keras.egg-info
+keras_scripts/setup.py
+keras_scripts/read_npy/mnist
+keras_scripts/read_npy/mnist.npz
+keras_scripts/read_npy/mnist.npz:Zone.Identifier
