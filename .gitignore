@@ -6,3 +6,4 @@ keras_scripts/setup.py
 keras_scripts/read_npy/mnist
 keras_scripts/read_npy/mnist.npz
 keras_scripts/read_npy/mnist.npz:Zone.Identifier
+keras_scripts/rnn_scripts/imdb/aclImdb
